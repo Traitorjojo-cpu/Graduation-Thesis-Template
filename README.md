@@ -3,10 +3,10 @@
 
 
 
-可以参考学长模板的项目地址以及他的博客：
+项目地址
 
-* [Github](https://github.com/AsukaEva2/ZJUTbachelor)
-* [Gitee](https://gitee.com/asukaeva2/zjutbachelor)
+* [Github]([https://github.com/AsukaEva2/ZJUTbachelor](https://github.com/Traitorjojo-cpu/Graduation-Thesis-Template))
+
 
 
 
