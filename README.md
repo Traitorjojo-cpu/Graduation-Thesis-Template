@@ -8,7 +8,7 @@
 * [Github](https://github.com/AsukaEva2/ZJUTbachelor)
 * [Gitee](https://gitee.com/asukaeva2/zjutbachelor)
 
-他的博客[浙江工业大学本科毕业论文LaTeX模板](https://haoyufang.gitee.io/2022/03/24/%E6%B5%99%E6%B1%9F%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87LaTeX%E6%A8%A1%E6%9D%BF/)和[正儿八经学习LaTeX](https://haoyufang.gitee.io/2022/03/01/%E6%AD%A3%E5%84%BF%E5%85%AB%E7%BB%8F%E5%AD%A6%E4%B9%A0LaTex/)
+
 
 欢迎本学院以及LaTeX开发者、爱好者一起使用和维护。
 
