@@ -5,7 +5,7 @@
 
 项目地址
 
-* [Github]([https://github.com/AsukaEva2/ZJUTbachelor](https://github.com/Traitorjojo-cpu/Graduation-Thesis-Template))
+* [Github](https://github.com/Traitorjojo-cpu/Graduation-Thesis-Template)
 
 
 
